@@ -2,4 +2,4 @@ I created this wedding website for my brother in law's wedding.  I started with 
 
 I made several changes including adding a carousel for the photos section.
 
-It was a fun project to reinforce what I've been learning in the Codecademy "Building Websites from Scratch" Pro Intensive course.
+It was a fun project to reinforce the skills I've been learning in the Codecademy "Building Websites from Scratch" Pro Intensive course.
