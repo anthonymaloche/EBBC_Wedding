@@ -11,7 +11,9 @@ a {
   color: rgba(189, 155, 155, 1);
 }
 
-
+.carousel .item {
+height: 300px;
+}
 
 
 a:hover {
