@@ -55,7 +55,7 @@ section h3.section-subheading {
   }
 }
 
-#border {   border-width: 10px;    border-color: white; border-style: solid; }
+#border {   border-width: 10px;    border-color: white; border-style: solid; padding: 0 }
 
 
 
