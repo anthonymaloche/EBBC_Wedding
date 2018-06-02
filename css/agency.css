@@ -11,10 +11,6 @@ a {
   color: rgba(189, 155, 155, 1);
 }
 
-.carousel .item {
-height: 300px;
-}
-
 
 a:hover {
   color: rgba(50, 70, 120, .8);
