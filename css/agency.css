@@ -20,6 +20,8 @@ a:hover {
   color: rgba(189, 155, 155, 1) !important;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -55,7 +57,7 @@ section h3.section-subheading {
   }
 }
 
-#border {   border-width: 10px;    border-color: white; border-style: solid; padding: 0 }
+#border {   border-width: 10px;    border-color: white; border-style: solid; padding: 0; }
 
 
 
@@ -181,6 +183,7 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
 
 header.masthead .intro-text {
@@ -204,7 +207,7 @@ header.masthead .intro-text .intro-heading {
   font-family: 'Satisfy', cursive;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   header.masthead .intro-text {
     padding-top: 200px;
     padding-bottom: 300px;
