@@ -262,11 +262,13 @@
 
         <!--carousel!-->
 
-        <!-- //Enable swiping... -->
+
         <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
 
 
     <script>
+    $(document).ready(function() {
+          //Enable swiping...
 					$(".carousel-inner").swipe( {
 						//Generic swipe handler for all directions
 						swipeLeft:function(event, direction, distance, duration, fingerCount) {
@@ -280,7 +282,7 @@
 					});
 				});
     </script>
-    
+
         <div class="col-md-6 offset-md-3">
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
