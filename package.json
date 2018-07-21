@@ -31,7 +31,8 @@
         "hoek": "^5.0.3",
         "jquery": "3.3.1",
         "jquery-touchswipe": "^1.6.18",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "mime": "^2.3.1"
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
