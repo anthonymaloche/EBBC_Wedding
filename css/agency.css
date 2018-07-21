@@ -83,14 +83,7 @@ section h3.section-subheading {
   border-color: rgba(189, 155, 155, 1);
 }
 
-.btn-secondary {
-  background-color: teal;
-  border-color: teal;
-}
 
-.btn-secondary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(50, 70, 120, .5) !important;
-}
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: rgba(50, 70, 120, .8) !important;
