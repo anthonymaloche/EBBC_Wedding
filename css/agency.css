@@ -84,7 +84,6 @@ section h3.section-subheading {
 }
 
 
-
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: rgba(50, 70, 120, .8) !important;
   border-color: rgba(50, 70, 120, 1) !important;
@@ -92,6 +91,22 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(50, 70, 120, .5) !important;
+}
+
+.btn-secondary {
+  background-color: rgba(50, 70, 120, 1);
+  border-color: rgba(50, 70, 120, 1);
+}
+
+
+.btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+  background-color: rgba(50, 70, 120, .8) !important;
+  border-color: rgba(50, 70, 120, 1) !important;
+  color: white;
+}
+
+.btn-secondary:active, .btn-secondary:focus {
   box-shadow: 0 0 0 0.2rem rgba(50, 70, 120, .5) !important;
 }
 
