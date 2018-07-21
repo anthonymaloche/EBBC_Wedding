@@ -59,6 +59,13 @@ section h3.section-subheading {
 
 #border {   border-width: 10px;    border-color: white; border-style: solid; padding: 0; }
 
+#shuttle a {
+  color: teal;
+}
+
+#shuttle a:hover {
+  color: rgba(50, 70, 120, .8);
+}
 
 
 .btn {
