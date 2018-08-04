@@ -67,6 +67,9 @@ section h3.section-subheading {
   color: rgba(50, 70, 120, .8);
 }
 
+.btn-link {
+  color: rgba(50, 70, 120, .8);
+}
 
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
