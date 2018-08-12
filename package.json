@@ -32,7 +32,8 @@
         "jquery": "3.3.1",
         "jquery-touchswipe": "^1.6.18",
         "jquery.easing": "^1.4.1",
-        "mime": "^2.3.1"
+        "mime": "^2.3.1",
+        "mixin-deep": "^2.0.0"
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
